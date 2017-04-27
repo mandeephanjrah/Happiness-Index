@@ -27,8 +27,8 @@ public class SendMail1 {
 		st3=e.geturls();
 		String st5=st3.get(0);
 		String host="smtp.gmail.com";  //smtp host
-		final String user="cmit.coe@gmail.com";//username
-		final String password="coMakeIT";//password 
+		final String user="steveguide0@gmail.com";//username
+		final String password="steveguide0";//password 
 
 		//Get the session object  
 		Properties props = new Properties();  
